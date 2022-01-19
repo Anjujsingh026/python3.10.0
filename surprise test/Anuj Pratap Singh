@@ -1,0 +1,14 @@
+def expanding(list):
+   lst1 = []
+   try:
+        for i in range(len(lst)):
+              out = (lst[i+1])-lst[i]
+              lst1.append(abs(out))
+    expect:
+            lst.append(lst[-1])
+    if sorted(lst[-1]:
+        return True
+    else:
+    return False
+    lst = lisy(map(int,input("Enter the number : ").split(",")))
+    print(expanding)lst))
